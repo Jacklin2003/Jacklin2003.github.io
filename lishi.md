@@ -39,5 +39,33 @@
            
                 </p>
                 
-         <<img src="https://github.com/Jacklin2003/Jacklin2003.github.io/blob/main/lishi.png""/>> </div>
-![历史](https://github.com/Jacklin2003/Jacklin2003.github.io/blob/main/lishi.png)
+            <<img src="个人/R-C.png" width="860" height="614" alt=""/>> </div>
+        </div>
+        <div id="luxing">
+            <h2>八里台</h2>
+            <div>
+                <div id="picture">
+                    <img src="" alt=""><img src="个人/八里台.jpg" width="1000" height="800" alt=""/>
+                    <p>宜宾</p>
+              </div>
+                <div id="picture">
+                    <img src="" alt=""><img src="个人/宜宾.jpg" width="700" height="800" alt=""/>
+                    <p>
+                        自贡
+                    </p>
+              </div>
+                <div id="picture">
+                    <img src="" alt=""><img src="个人/自贡.jpg" width="1000" height="800" alt=""/>
+                    
+              </div>
+               
+        </div>
+        <footer>
+            <p>
+                我的邮箱：2112806@mail.nankai.edu.cn
+            </p>
+        </footer>
+    </div>
+</body>
+
+</html>
