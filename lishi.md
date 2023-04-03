@@ -12,7 +12,7 @@
 <div id="main">
             <div id="main_left">
                 <h2 link="#E33336">自我介绍</h2>
-                <img src="个人/日落.jpg" width="1000" height="600" alt=""/>
+                <img src="Jacklin2003.github.io/luori.jpg at main · Jacklin2003/Jacklin2003.github.io" width="1000" height="600" alt=""/>
                 <p>
                     <span>姓名</span>:刘林<br>
                     <span>性别</span>:女<br>
@@ -39,23 +39,23 @@
            
                 </p>
                 
-            <<img src="个人/R-C.png" width="860" height="614" alt=""/>> </div>
+            <<img src="Jacklin2003.github.io/lishi.png at main · Jacklin2003/Jacklin2003.github.io" width="860" height="614" alt=""/>> </div>
         </div>
         <div id="luxing">
             <h2>八里台</h2>
             <div>
                 <div id="picture">
-                    <img src="" alt=""><img src="个人/八里台.jpg" width="1000" height="800" alt=""/>
+                    <img src="" alt=""><img src="Jacklin2003.github.io/balitai.jpg at main · Jacklin2003/Jacklin2003.github.io" width="1000" height="800" alt=""/>
                     <p>宜宾</p>
               </div>
                 <div id="picture">
-                    <img src="" alt=""><img src="个人/宜宾.jpg" width="700" height="800" alt=""/>
+                    <img src="" alt=""><img src="Jacklin2003.github.io/renxiang.jpg at main · Jacklin2003/Jacklin2003.github.io" width="700" height="800" alt=""/>
                     <p>
                         自贡
                     </p>
               </div>
                 <div id="picture">
-                    <img src="" alt=""><img src="个人/自贡.jpg" width="1000" height="800" alt=""/>
+                    <img src="" alt=""><img src="Jacklin2003.github.io/zigong.jpg at main · Jacklin2003/Jacklin2003.github.io" width="1000" height="800" alt=""/>
                     
               </div>
                
